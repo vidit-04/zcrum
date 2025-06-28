@@ -24,28 +24,28 @@
 </p>
 
 - 🔐 **Google Auth via Clerk**  
-  Users can sign in or sign up using their Google account securely via Clerk, streamlining the onboarding process.
+  Provides secure, seamless authentication using Google, reducing the friction of onboarding new users and leveraging a trusted provider.
 
 - 🏢 **Organization creation & member invitation via Gmail**  
-  Admins can create organizations and invite collaborators via Gmail, making team setup quick and collaborative.
+  Admins can quickly set up teams and invite members through Gmail, making it fast and intuitive to build collaborative spaces.
 
 - 🗂️ **Project creation (Admin only)**  
-  Only admins can create projects to ensure centralized control over major workflows.
+  Ensures projects are organized and governed under admin control, keeping workflows structured and reducing clutter from unauthorized project creation.
 
 - 🧑‍🤝‍🧑 **Sprint creation by Members/Admin; start by Admin only**  
-  Members can propose sprints, but only Admins can start them, giving authority while encouraging contribution.
+  Encourages collaborative planning with members proposing sprints, while keeping control over starting them to maintain structured timelines.
 
 - 🐞 **Issue creation with priorities: `Urgent`, `High`, `Medium`, `Low`**  
-  Users can log issues with clear priority labels for effective triage and task handling.
+  Helps team members categorize tasks based on urgency, making backlog grooming and daily work prioritization clear and effective.
 
 - 📝 **Markdown Editor for rich issue descriptions**  
-  Enables formatting of issue content for clarity using a markdown-powered editor.
+  Provides a flexible editor to format descriptions, making bug reports and feature requests clearer and easier to read.
 
 - 👥 **Assign issues to any org member/admin**  
-  Ensures task distribution is flexible and transparent within the team.
+  Allows direct accountability by letting any issue be assigned to relevant team members, ensuring nothing falls through the cracks.
 
 - 📋 **View issues assigned/raised by a user**  
-  Makes it easy to track contributions and current responsibilities across the platform.
+  Empowers team members to track their personal contributions and understand current workload at a glance.
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTFsdnNhZjdibGw4bmxudTQxcHZ2NjY5M2NoOXVxY3lldWkwc3dxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uhXxGTTyBfKk7iBU40/giphy.gif" alt="Robot Typing Fast GIF" width="60%" />
