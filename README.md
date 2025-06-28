@@ -13,20 +13,43 @@
 
 ## 🌍 Live Demo
 
-🔗 **Deployed at:** [Zcrum Deployment Link](https://your-deployment-link.com)
+🔗 **Deployed at:** [Zcrum Deployment Link](https://zcrum-orpin.vercel.app/)
 
 ---
 
 ## ✨ Features Overview
 
-- 🔐 Google Auth via Clerk (Sign In / Sign Up)
-- 🏢 Organization creation & member invitation via Gmail
-- 🗂️ Project creation (Admin only)
-- 🧑‍🤝‍🧑 Sprint creation by Members/Admin; start by Admin only
-- 🐞 Issue creation with priorities: `Urgent`, `High`, `Medium`, `Low`
-- 📝 Markdown Editor for rich issue descriptions
-- 👥 Assign issues to any org member/admin
-- 📋 View issues assigned/raised by a user
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZzN2Q2cDZ6bmVnbXByNzc5aXdrbnNxYjZkNXV1ZGdzMWkxZ3lrOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IPWXYMP4t2ODvzwOYk/giphy.gif" alt="Duck Thinking GIF" width="60%" />
+</p>
+
+- 🔐 **Google Auth via Clerk**  
+  Users can sign in or sign up using their Google account securely via Clerk, streamlining the onboarding process.
+
+- 🏢 **Organization creation & member invitation via Gmail**  
+  Admins can create organizations and invite collaborators via Gmail, making team setup quick and collaborative.
+
+- 🗂️ **Project creation (Admin only)**  
+  Only admins can create projects to ensure centralized control over major workflows.
+
+- 🧑‍🤝‍🧑 **Sprint creation by Members/Admin; start by Admin only**  
+  Members can propose sprints, but only Admins can start them, giving authority while encouraging contribution.
+
+- 🐞 **Issue creation with priorities: `Urgent`, `High`, `Medium`, `Low`**  
+  Users can log issues with clear priority labels for effective triage and task handling.
+
+- 📝 **Markdown Editor for rich issue descriptions**  
+  Enables formatting of issue content for clarity using a markdown-powered editor.
+
+- 👥 **Assign issues to any org member/admin**  
+  Ensures task distribution is flexible and transparent within the team.
+
+- 📋 **View issues assigned/raised by a user**  
+  Makes it easy to track contributions and current responsibilities across the platform.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTFsdnNhZjdibGw4bmxudTQxcHZ2NjY5M2NoOXVxY3lldWkwc3dxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uhXxGTTyBfKk7iBU40/giphy.gif" alt="Robot Typing Fast GIF" width="60%" />
+</p>
 
 ---
 
@@ -98,14 +121,14 @@
 
 ## 🛠️ Tech Stack
 
-| Tech            | Role                                |
-|-----------------|-------------------------------------|
-| **Next.js**     | Frontend & Server                   |
-| **Clerk**       | Authentication with Google OAuth    |
-| **Prisma**      | ORM for PostgreSQL                  |
-| **NeonDB**      | Serverless PostgreSQL DB            |
-| **Tailwind CSS**| UI Styling                          |
-| **React Markdown Editor** | For issue content input   |
+| Tech                  | Role                                 |
+|-----------------------|--------------------------------------|
+| **Next.js**           | Frontend & Server                    |
+| **Clerk**             | Authentication with Google OAuth     |
+| **Prisma**            | ORM for PostgreSQL                   |
+| **NeonDB**            | Serverless PostgreSQL DB             |
+| **Tailwind CSS**      | UI Styling                           |
+| **React Markdown Editor** | Rich Text Support for Issues    |
 
 ---
 
