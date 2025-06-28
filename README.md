@@ -55,70 +55,60 @@
 </p>
 
 ---
-
 ## 🖼️ Demo Walkthrough
+
+Explore how each feature makes project and team management seamless and efficient:
+
+---
 
 ### 🔐 Authentication (Google Sign In / Sign Up)
 
-<p align="center">
-  <img src="https://your-gif-link.com/auth-flow.gif" alt="Auth GIF" width="80%" />
-</p>
+Users can securely sign up and sign in using their Google accounts. This removes the friction of creating and remembering new credentials, and offers a trusted authentication experience that integrates seamlessly with their existing workflow.
 
 ---
 
 ### 🏢 Create Organization & Invite Members via Gmail
 
-<p align="center">
-  <img src="https://your-gif-link.com/invite-members.gif" alt="Invite Members GIF" width="80%" />
-</p>
+Admins have the ability to create organizations within the platform, laying the foundation for collaborative workspaces. Once created, admins can invite members via Gmail directly from the app, ensuring quick onboarding of team members with minimal setup or manual steps.
 
 ---
 
 ### 📂 Project Creation (Admin Only)
 
-<p align="center">
-  <img src="https://your-gif-link.com/create-project.gif" alt="Create Project GIF" width="80%" />
-</p>
+Only admins can create projects within the organization, allowing centralized control and accountability. This ensures projects align with organizational goals, and keeps the project structure clean and well-managed from the start.
 
 ---
 
 ### 📆 Sprint Creation (Members & Admins)
 
-<p align="center">
-  <img src="https://your-gif-link.com/sprint-creation.gif" alt="Sprint Creation GIF" width="80%" />
-</p>
+Both admins and members can create sprints, which define work periods with specific goals and timelines. Admins have the final say in starting sprints, ensuring coordinated progress. This structure helps teams focus on smaller, achievable milestones rather than getting overwhelmed by the broader project scope.
 
 ---
 
 ### 🐞 Raise Issues with Priorities
 
-<p align="center">
-  <img src="https://your-gif-link.com/issue-creation.gif" alt="Issue Creation GIF" width="80%" />
-</p>
+Team members can raise issues under projects, tagging them with priority levels such as Urgent, High, Medium, or Low. This helps everyone understand what needs immediate attention and which tasks can be tackled next, allowing better planning and smoother workflows.
 
 ---
 
 ### 📝 Markdown Editor for Issue Description
 
-<p align="center">
-  <img src="https://your-gif-link.com/md-editor.gif" alt="Markdown Editor GIF" width="80%" />
-</p>
+A built-in markdown editor allows rich text formatting of issue descriptions. Users can add headings, lists, code snippets, or highlight important details, making it easier to convey the context and requirements of each issue clearly and professionally.
 
 ---
 
 ### 👥 Assign Issues to Any Member
 
-<p align="center">
-  <img src="https://your-gif-link.com/assign-issues.gif" alt="Assign Issues GIF" width="80%" />
-</p>
+Admins and members can assign issues to anyone within the organization. This promotes clarity and accountability in the team, ensuring each task has an owner and reducing confusion over responsibilities.
 
 ---
 
 ### 🔍 View Assigned / Raised Issues
 
-<p align="center">
-  <img src="https://your-gif-link.com/view-issues.gif" alt="View Issues GIF" width="80%" />
-</p>
+Every user can view the issues they have raised or those assigned to them, neatly organized in dedicated sections. This transparency helps each team member prioritize their tasks, track progress, and ensure no important work falls through the cracks.
+
+---
+
 
 ---
 
