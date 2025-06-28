@@ -8,7 +8,10 @@
 </p>
 
 <p align="center">An all-in-one collaborative platform for efficient project and team management 🧑‍💻⚡️ — built using modern web technologies.</p>
-![image](https://github.com/user-attachments/assets/783d4f3b-925d-44cf-aaf8-4ee4035b2f6c)
+<p align="center">
+  <img width="1470" alt="Screenshot 2024-12-10 at 9 45 45 AM" src="https://github.com/user-attachments/assets/783d4f3b-925d-44cf-aaf8-4ee4035b2f6c">
+</p>
+
 ---
 
 ## 🌍 Live Demo
