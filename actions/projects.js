@@ -118,7 +118,7 @@ export async function deleteProject(projectId) {
 }
 
 export async function   getProject(projectId) {
-  const { userId , orgId } = await auth();
+  const { userId } = await auth();
   if (!userId) {
     throw new Error("Unauthorized");
   }
